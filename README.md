@@ -1,3 +1,3 @@
 # Tariff recommendation
 
-This project was about binary classification models.
+This project was about binary classification models. 

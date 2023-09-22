@@ -1,1 +1,3 @@
-# yandex_tariff_recommendation
+# Tariff recommendation
+
+This project was about binary classification models.
